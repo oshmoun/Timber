@@ -25,8 +25,6 @@ import java.io.IOException;
 import java.util.concurrent.Executor;
 import java.util.concurrent.TimeUnit;
 
-import okio.BufferedSink;
-import okio.DeflaterSink;
 import retrofit.RequestInterceptor;
 import retrofit.RestAdapter;
 import retrofit.client.OkClient;
